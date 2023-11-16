@@ -221,7 +221,7 @@ label:hover {
   height: 15px;
   margin-bottom: -1px;
   display: grid;
-  width: 211px;
+  width: 280px;
   grid-template-columns: repeat(2, 1fr);
   align-items: center;
   border: 2px solid #000;
@@ -229,7 +229,7 @@ label:hover {
 }
 
 .result.image {
-  height: 200px;
+  height: 180px;
 }
 
 .result.image img {
