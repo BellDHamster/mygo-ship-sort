@@ -221,7 +221,7 @@ label:hover {
   height: 15px;
   margin-bottom: -1px;
   display: grid;
-  width: 280px;
+  width: 360px;
   grid-template-columns: repeat(2, 1fr);
   align-items: center;
   border: 2px solid #000;
@@ -265,7 +265,7 @@ label:hover {
 }
 
 .result > .right {
-  width: 400px;
+  width: 360px;
   padding: 1px 0em 1px 0em;
   grid-column: 2 / 3;
   border-left: 1px solid #000;
