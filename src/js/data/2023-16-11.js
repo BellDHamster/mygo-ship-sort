@@ -64,7 +64,7 @@ dataSet[dataSetVersion].characterData = [
   },
     {
     name: "NyamuSaki",
-    img: "NyamuSaki.png",
+    img: "NyamuSaki.jpg",
     opts: {
       bands: ["ave"],
       positions: ["ab"],
@@ -82,7 +82,7 @@ dataSet[dataSetVersion].characterData = [
   },
     {
     name: "RaanaMatcha",
-    img: "RaanaMatcha.png",
+    img: "RaanaMatcha.jpg",
     opts: {
       bands: ["mygo"],
       positions: ["ab"],
@@ -91,7 +91,7 @@ dataSet[dataSetVersion].characterData = [
   },
     {
     name: "MatchaRaana",
-    img: "MatchaRaana.png",
+    img: "MatchaRaana.jpg",
     opts: {
       bands: ["mygo"],
       positions: ["ba"],
@@ -154,7 +154,7 @@ dataSet[dataSetVersion].characterData = [
   },
     {
     name: "AnonSoyo",
-    img: "AnonSoyo.png",
+    img: "AnonSoyo.jpg",
     opts: {
       bands: ["mygo"],
       positions: ["ab"],
@@ -172,7 +172,7 @@ dataSet[dataSetVersion].characterData = [
   },
     {
     name: "TakiAnon",
-    img: "TakiAnon.png",
+    img: "TakiAnon.jpg",
     opts: {
       bands: ["mygo"],
       positions: ["ab"],
@@ -208,7 +208,7 @@ dataSet[dataSetVersion].characterData = [
   },
     {
     name: "AnonTomo",
-    img: "AnonTomo.png",
+    img: "AnonTomo.jpg",
     opts: {
       bands: ["mygo"],
       positions: ["ab"],
@@ -244,7 +244,7 @@ dataSet[dataSetVersion].characterData = [
   },
     {
     name: "AnonSaki",
-    img: "AnonSaki.png",
+    img: "AnonSaki.jpg",
     opts: {
       bands: ["inter"],
       positions: ["ab"],
@@ -262,7 +262,7 @@ dataSet[dataSetVersion].characterData = [
   },
     {
     name: "NyamuUika",
-    img: "NyamuUika.png",
+    img: "NyamuUika.jpg",
     opts: {
       bands: ["ave"],
       positions: ["ab"],
@@ -280,7 +280,7 @@ dataSet[dataSetVersion].characterData = [
   },
     {
     name: "UikaUmiri",
-    img: "UikaUmiri.png",
+    img: "UikaUmiri.jpg",
     opts: {
       bands: ["ave"],
       positions: ["ab"],
@@ -352,7 +352,7 @@ dataSet[dataSetVersion].characterData = [
   },
       {
     name: "NyamuAnon",
-    img: "NyamuAnon.png",
+    img: "NyamuAnon.jpg",
     opts: {
       bands: ["inter"],
       positions: ["ab"],
@@ -370,7 +370,7 @@ dataSet[dataSetVersion].characterData = [
   },
       {
     name: "SakiMutsu",
-    img: "SakiMutsu.png",
+    img: "SakiMutsu.jpg",
     opts: {
       bands: ["ave","cryc"],
       positions: ["ab"],
@@ -388,7 +388,7 @@ dataSet[dataSetVersion].characterData = [
   },
       {
     name: "MutsuTaki",
-    img: "MutsuTaki.png",
+    img: "MutsuTaki.jpg",
     opts: {
       bands: ["inter","cryc"],
       positions: ["ab"],
