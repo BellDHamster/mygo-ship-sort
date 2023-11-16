@@ -47,7 +47,7 @@ dataSet[dataSetVersion].options = [
 dataSet[dataSetVersion].characterData = [
   {
     name: "Soyotaki",
-    img: "Soyotaki.png",
+    img: "Soyotaki.jpg",
     opts: {
       bands: ["mygo","cryc"],
       positions: ["ab"],
