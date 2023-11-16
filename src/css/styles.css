@@ -199,7 +199,7 @@ label:hover {
 .results {
   font-size: 0.75em;
   display: flex;
-  width: 80%;
+  width: 70%;
   margin: 2em auto;
 }
 
@@ -225,12 +225,12 @@ label:hover {
   grid-template-columns: repeat(2, 1fr);
   align-items: center;
   border: 2px solid #000;
-  margin-right: 3px;
+  margin-right: 7px;
 }
 
 .result.image {
   height: 180px;
-  width: 240px;
+  width: 360px;
 }
 
 .result.image img {
