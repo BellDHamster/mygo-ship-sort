@@ -602,5 +602,131 @@ dataSet[dataSetVersion].characterData = [
       positions: ["ba"],
       char: ["sa","to"]
     }
+  },
+      {
+    name: "AnonMutsu",
+    img: "AnonMutsu.png",
+    opts: {
+      bands: ["inter"],
+      positions: ["ab"],
+      char: ["an","mu"]
+    }
+  },      
+      {
+    name: "MutsuAnon",
+    img: "MutsuAnon.png",
+    opts: {
+      bands: ["inter"],
+      positions: ["ba"],
+      char: ["an","mu"]
+    }
+  },
+      {
+    name: "NyamuSoyo",
+    img: "NyamuSoyo.png",
+    opts: {
+      bands: ["inter"],
+      positions: ["ab"],
+      char: ["so","ny"]
+    }
+  },      
+      {
+    name: "SoyoNyamu",
+    img: "SoyoNyamu.png",
+    opts: {
+      bands: ["inter"],
+      positions: ["ba"],
+      char: ["so","ny"]
+    }
+  },
+      {
+    name: "NyamuTaki",
+    img: "NyamuTaki.png",
+    opts: {
+      bands: ["inter"],
+      positions: ["ab"],
+      char: ["ta","ny"]
+    }
+  },      
+      {
+    name: "TakiNyamu",
+    img: "TakiNyamu.png",
+    opts: {
+      bands: ["inter"],
+      positions: ["ba"],
+      char: ["ta","ny"]
+    }
+  },
+      {
+    name: "NyamuTomo",
+    img: "NyamuTomo.png",
+    opts: {
+      bands: ["inter"],
+      positions: ["ab"],
+      char: ["to","ny"]
+    }
+  },      
+      {
+    name: "TomoNyamu",
+    img: "TomoNyamu.png",
+    opts: {
+      bands: ["inter"],
+      positions: ["ba"],
+      char: ["to","ny"]
+    }
+  },
+      {
+    name: "UmiriTomori",
+    img: "UmiriTomori.png",
+    opts: {
+      bands: ["inter"],
+      positions: ["ab"],
+      char: ["to","um"]
+    }
+  },      
+      {
+    name: "TomoriUmiri",
+    img: "TomoriUmiri.png",
+    opts: {
+      bands: ["inter"],
+      positions: ["ba"],
+      char: ["to","um"]
+    }
+  },
+      {
+    name: "UmiriSoyo",
+    img: "UmiriSoyo.png",
+    opts: {
+      bands: ["inter"],
+      positions: ["ab"],
+      char: ["so","um"]
+    }
+  },      
+      {
+    name: "SoyoUmiri",
+    img: "SoyoUmiri.png",
+    opts: {
+      bands: ["inter"],
+      positions: ["ba"],
+      char: ["so","um"]
+    }
+  },
+      {
+    name: "SoyoUika",
+    img: "SoyoUika.png",
+    opts: {
+      bands: ["inter"],
+      positions: ["ab"],
+      char: ["so","ui"]
+    }
+  },      
+      {
+    name: "UikaSoyo",
+    img: "UikaSoyo.png",
+    opts: {
+      bands: ["inter"],
+      positions: ["ba"],
+      char: ["so","ui"]
+    }
   }
 ];
