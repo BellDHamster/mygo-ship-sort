@@ -16,7 +16,7 @@ dataSet[dataSetVersion].options = [
   },
   {
     name: "Filter by Position (If you don't want to fix position pls pick one)",
-    key: "position",
+    key: "positions",
     tooltip: "Check this to restrict to certain bands.",
     checked: false,
     sub: [
