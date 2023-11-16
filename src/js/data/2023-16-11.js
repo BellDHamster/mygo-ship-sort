@@ -3,18 +3,6 @@ dataSet[dataSetVersion] = {};
 
 dataSet[dataSetVersion].options = [
   {
-    name: "Filter by Ship within Band",
-    key: "bands",
-    tooltip: "Check this to restrict to certain bands.",
-    checked: false,
-    sub: [
-      { name: "MyGo!!!!!", key: "mygo" },
-      { name: "Ave Mujica", key: "ave" },
-      { name: "CRYCHIC", key: "cryc" },
-      { name: "mygo-ave-crychic", key: "inter"},
-    ]
-  },
-  {
     name: "Filter by Position (If you don't want to fix position pls pick one)",
     key: "positions",
     tooltip: "Check this to restrict to certain positions.",
@@ -43,6 +31,7 @@ dataSet[dataSetVersion].options = [
     ]
   }
 ];
+
 dataSet[dataSetVersion].characterData = [
   {
     name: "Soyotaki",
