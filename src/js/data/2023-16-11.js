@@ -440,5 +440,167 @@ dataSet[dataSetVersion].characterData = [
       positions: ["ba"],
       char: ["an","um"]
     }
+  },
+      {
+    name: "MutsuNyamu",
+    img: "MutsuNyamu.png",
+    opts: {
+      bands: ["ave"],
+      positions: ["ab"],
+      char: ["mu","ny"]
+    }
+},
+      {
+    name: "NyamuMutsu",
+    img: "NyamuMutsu.png",
+    opts: {
+      bands: ["ave"],
+      positions: ["ba"],
+      char: ["mu","ny"]
+    }
+  },
+      {
+    name: "UmiNyamu",
+    img: "UmiNyamu.png",
+    opts: {
+      bands: ["ave"],
+      positions: ["ab"],
+      char: ["um","ny"]
+    }
+},
+      {
+    name: "NyamuUmi",
+    img: "NyamuUmi.png",
+    opts: {
+      bands: ["ave"],
+      positions: ["ba"],
+      char: ["um","ny"]
+    }
+},
+      {
+    name: "SakiNyamu",
+    img: "SakiNyamu.png",
+    opts: {
+      bands: ["ave"],
+      positions: ["ab"],
+      char: ["sa","ny"]
+    }
+},
+      {
+    name: "NyamuSaki",
+    img: "NyamuSaki.png",
+    opts: {
+      bands: ["ave"],
+      positions: ["ba"],
+      char: ["sa","ny"]
+    }
+  },
+      {
+    name: "MutsuUmiri",
+    img: "MutsuUmiri.png",
+    opts: {
+      bands: ["ave"],
+      positions: ["ab"],
+      char: ["mu","um"]
+    }
+ },      
+      {
+    name: "UmiriMutsu",
+    img: "UmiriMutsu.png",
+    opts: {
+      bands: ["ave"],
+      positions: ["ba"],
+      char: ["mu","um"]
+    }
+  },
+      {
+    name: "SakiTaki",
+    img: "SakiTaki.png",
+    opts: {
+      bands: ["inter","cryc"],
+      positions: ["ab"],
+      char: ["sa","ta"]
+    }
+  },      
+      {
+    name: "TakiSaki",
+    img: "TakiSaki.png",
+    opts: {
+      bands: ["inter","cryc"],
+      positions: ["ba"],
+      char: ["sa","ta"]
+    }
+  },
+      {
+    name: "TomoMutsu",
+    img: "TomoMutsu.png",
+    opts: {
+      bands: ["inter","cryc"],
+      positions: ["ab"],
+      char: ["mu","to"]
+    }
+  },      
+      {
+    name: "MutsuTomo",
+    img: "MutsuTomo.png",
+    opts: {
+      bands: ["inter","cryc"],
+      positions: ["ba"],
+      char: ["mu","to"]
+    }
+  },
+      {
+    name: "UmiSaki",
+    img: "UmiSaki.png",
+    opts: {
+      bands: ["ave"],
+      positions: ["ab"],
+      char: ["sa","um"]
+    }
+ },      
+      {
+    name: "SakiUmi",
+    img: "SakiUmi.png",
+    opts: {
+      bands: ["ave"],
+      positions: ["ba"],
+      char: ["sa","um"]
+    }
+  },
+      {
+    name: "TakiUika",
+    img: "TakiUika.png",
+    opts: {
+      bands: ["inter"],
+      positions: ["ab"],
+      char: ["ui","ta"]
+    }
+  },      
+      {
+    name: "UikaTaki",
+    img: "UikaTaki.png",
+    opts: {
+      bands: ["inter"],
+      positions: ["ba"],
+      char: ["ui","ta"]
+    }
+  },
+      {
+    name: "TomoSaki",
+    img: "TomoSaki.png",
+    opts: {
+      bands: ["inter","cryc"],
+      positions: ["ab"],
+      char: ["sa","to"]
+    }
+  },      
+      {
+    name: "SakiTomo",
+    img: "SakiTomo.png",
+    opts: {
+      bands: ["inter","cryc"],
+      positions: ["ba"],
+      char: ["sa","to"]
+    }
   }
 ];
