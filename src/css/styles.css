@@ -9,7 +9,7 @@ body {
   display: flex;
   flex-flow: column nowrap;
   align-items: center;
-  margin-top: 20vh;
+  margin-top: 1em;
 }
 
 .progress {
