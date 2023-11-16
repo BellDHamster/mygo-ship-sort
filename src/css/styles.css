@@ -50,12 +50,12 @@ body {
 
 .button {
   border: none;
-  border-radius: 15px;
+  border-radius: 10px;
   background-color: #779977;
   color: white;
   text-align: center;
   padding: 10%;
-  margin: 5px auto;
+  margin: 3px auto;
   grid-column: 2 / 3;
   font-weight: bolder;
   position: relative;
@@ -127,7 +127,7 @@ body {
 }
 
 .sorter > .text {
-  width: 120px;
+  width: 240px;
   height: 30px;
   display: none;
 }
