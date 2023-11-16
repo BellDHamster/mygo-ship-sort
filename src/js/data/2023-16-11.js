@@ -17,7 +17,7 @@ dataSet[dataSetVersion].options = [
   {
     name: "Filter by Position (If you don't want to fix position pls pick one)",
     key: "positions",
-    tooltip: "Check this to restrict to certain bands.",
+    tooltip: "Check this to restrict to certain positions.",
     checked: false,
     sub: [
       { name: "AxB", key: "ab" },
@@ -25,9 +25,9 @@ dataSet[dataSetVersion].options = [
     ]
   },
   {
-    name: "Filter by Ship character",
+    name: "Filter by Ship characters",
     key: "char",
-    tooltip: "Check this to restrict to certain bands.",
+    tooltip: "Check this to restrict to certain characters.",
     checked: false,
     sub: [
       { name: "Anon", key: "an" },
