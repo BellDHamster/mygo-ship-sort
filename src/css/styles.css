@@ -225,17 +225,17 @@ label:hover {
   grid-template-columns: repeat(2, 1fr);
   align-items: center;
   border: 2px solid #000;
-  margin-right: 5px;
+  margin-right: 3px;
 }
 
 .result.image {
   height: 180px;
-  width: 260px;
+  width: 240px;
 }
 
 .result.image img {
   height: 160px;
-  width: 260px;
+  width: 240px;
 }
 
 .result.spacer {
