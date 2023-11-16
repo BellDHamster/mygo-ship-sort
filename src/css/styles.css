@@ -229,11 +229,11 @@ label:hover {
 }
 
 .result.image {
-  height: 210px;
+  height: 200px;
 }
 
 .result.image img {
-  height: 180px;
+  height: 160px;
 }
 
 .result.spacer {
@@ -250,7 +250,7 @@ label:hover {
   width: 35px;
   padding: 1px 3px 1px 0.5em;
   grid-column: 1 / 2;
-  text-align: right;
+  text-align: center;
 }
 
 .result.image .left {
@@ -279,6 +279,8 @@ label:hover {
   font-size: 0.6875em;
   width: 80%;
   line-height: 1.2em;
+  position: absolute;
+  bottom: 0%;
 }
 
 a {
