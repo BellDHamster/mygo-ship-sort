@@ -11,7 +11,7 @@ dataSet[dataSetVersion].options = [
       { name: "MyGo!!!!!", key: "mygo" },
       { name: "Ave Mujica", key: "ave" },
       { name: "CRYCHIC", key: "cryc" },
-      { name: "mygo-ave-crychic", key: "inter"},
+      { name: "ข้ามวง", key: "inter"},
     ]
   },
   {
