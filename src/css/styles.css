@@ -230,10 +230,12 @@ label:hover {
 
 .result.image {
   height: 180px;
+  width: 260px;
 }
 
 .result.image img {
   height: 160px;
+  width: 260px;
 }
 
 .result.spacer {
