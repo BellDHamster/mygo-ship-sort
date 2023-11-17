@@ -11,6 +11,11 @@ body {
   margin-top: 1em;
 }
 
+.figure {
+  margin: 2px 0px;
+  align-items: center;
+}
+
 .progress {
   margin: 1em auto;
   width: 500px;
