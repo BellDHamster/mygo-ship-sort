@@ -11,6 +11,7 @@ dataSet[dataSetVersion].options = [
       { name: "MyGo!!!!!", key: "mygo" },
       { name: "Ave Mujica", key: "ave" },
       { name: "CRYCHIC", key: "cryc" },
+      { name: "Sumimi", key: "sum" },
       { name: "ข้ามวง", key: "inter"},
     ]
   },
@@ -40,6 +41,7 @@ dataSet[dataSetVersion].options = [
       { name: "Umiri", key: "um"},
       { name: "Mutsumi", key: "mu"},
       { name: "Nyamu", key: "ny"},
+      { name: "Mana", key: "ma"},
     ]
   }
 ];
@@ -727,6 +729,24 @@ dataSet[dataSetVersion].characterData = [
       bands: ["inter"],
       positions: ["ba"],
       char: ["so","ui"]
+    }
+  }
+      {
+    name: "ManaUika",
+    img: "ManaUika.png",
+    opts: {
+      bands: ["sum"],
+      positions: ["ba"],
+      char: ["ma","ui"]
+    }
+  },      
+      {
+    name: "UikaMana",
+    img: "UikaMana.png",
+    opts: {
+      bands: ["sum"],
+      positions: ["ab"],
+      char: ["ma","ui"]
     }
   }
 ];
