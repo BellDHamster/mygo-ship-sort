@@ -18,6 +18,13 @@ body {
   border: 3px #FF0000;
 }
 
+.figcaption {
+  background-color: black;
+  color: white;
+  padding: 2px;
+  text-align: center;
+}
+
 .progress {
   margin: 1em auto;
   width: 500px;
