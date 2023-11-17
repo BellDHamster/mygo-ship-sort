@@ -66,24 +66,6 @@ dataSet[dataSetVersion].characterData = [
     }
   },
     {
-    name: "NyamuSaki",
-    img: "NyamuSaki.jpg",
-    opts: {
-      bands: ["ave"],
-      positions: ["ab"],
-      char: ["ny","sa"]
-    }
-  },
-    {
-    name: "SakiNyamu",
-    img: "SakiNyamu.png",
-    opts: {
-      bands: ["ave"],
-      positions: ["ba"],
-      char: ["ny","sa"]
-    }
-  },
-    {
     name: "RaanaMatcha",
     img: "RaanaMatcha.jpg",
     opts: {
