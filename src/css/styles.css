@@ -12,8 +12,9 @@ body {
 }
 
 .figure {
-  margin: 2px 0px;
+  margin: auto;
   align-items: center;
+  padding: 4px;
 }
 
 .progress {
