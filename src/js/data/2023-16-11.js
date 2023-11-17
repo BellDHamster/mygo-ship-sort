@@ -731,7 +731,7 @@ dataSet[dataSetVersion].characterData = [
       char: ["so","ui"]
     }
   }
-      {
+    {
     name: "ManaUika",
     img: "ManaUika.png",
     opts: {
@@ -740,7 +740,7 @@ dataSet[dataSetVersion].characterData = [
       char: ["ma","ui"]
     }
   },      
-      {
+    {
     name: "UikaMana",
     img: "UikaMana.png",
     opts: {
