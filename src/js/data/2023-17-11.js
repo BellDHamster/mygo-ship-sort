@@ -730,7 +730,7 @@ dataSet[dataSetVersion].characterData = [
       positions: ["ba"],
       char: ["so","ui"]
     }
-  }
+  },
     {
     name: "ManaUika",
     img: "ManaUika.png",
