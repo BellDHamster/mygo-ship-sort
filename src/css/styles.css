@@ -208,11 +208,15 @@ label:hover {
   font-size: 0.75em;
 }
 
-.results {
-  font-size: 0.75em;
-  display: flex;
-  width: 70%;
-  margin: 2em auto;
+.result {
+  height: 15px;
+  margin-bottom: -1px;
+  display: grid;
+  width: 260px;
+  grid-template-columns: repeat(2fr, 1fr);
+  align-items: center;
+  border: 2px solid #000;
+  margin-right: 3px;
 }
 
 @media all and (min-width: 600px) {
@@ -227,17 +231,6 @@ label:hover {
   .results {
     flex-flow: column nowrap;
   }
-}
-
-.result {
-  height: 15px;
-  margin-bottom: -1px;
-  display: grid;
-  width: 260px;
-  grid-template-columns: repeat(2fr, 1fr);
-  align-items: center;
-  border: 2px solid #000;
-  margin-right: 3px;
 }
 
 .result.image {
