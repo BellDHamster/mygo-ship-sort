@@ -234,7 +234,7 @@ label:hover {
   margin-bottom: -1px;
   display: grid;
   width: 260px;
-  grid-template-columns: repeat(2, 1fr);
+  grid-template-columns: repeat(2fr, 1fr);
   align-items: center;
   border: 2px solid #000;
   margin-right: 3px;
